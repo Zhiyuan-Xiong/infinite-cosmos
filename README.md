@@ -40,6 +40,12 @@ Processing 将几何转为点云、粒子、藤蔓与烟花反馈，网页保留
 
 仓库保留工作流截图、分析图、交互录屏、模型数据和成片；当前材料中的 ComfyUI 工作流以图像记录展示。
 
+## 工作流与成果证据
+
+<table><tr><td width="50%"><img src="media/cosmos/comfy-image-workflow.webp" alt="ComfyUI 图像生成节点工作流" width="100%"><br>ComfyUI：模型、提示词、输入图像和采样节点</td><td width="50%"><img src="media/cosmos/ai-outcome-one.webp" alt="AI 生成影像的输出帧" width="100%"><br>生成影像输出帧</td></tr></table>
+
+[查看视频生成工作流](media/cosmos/comfy-video-workflow-large.webp) · [查看 Processing 源码截图](media/cosmos/processing-code-large.webp) · [查看参数化模型装配](media/cosmos/model-assembly-large.webp)
+
 ## 仓库内容
 
 - [media/](media/)：项目公开影像、图像与交互数据。
