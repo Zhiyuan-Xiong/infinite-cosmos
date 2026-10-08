@@ -1,0 +1,93 @@
+{
+  "slug": "infinite-cosmos",
+  "title": {
+    "zh": "无垠的宇宙",
+    "en": "Infinite Cosmos"
+  },
+  "subtitle": {
+    "zh": "Rhino × Grasshopper × Processing × ComfyUI 协同设计",
+    "en": "A design workflow connecting Rhino, Grasshopper, Processing, and ComfyUI"
+  },
+  "description": {
+    "zh": "将参数化模型转化为可交互的点云，并通过生成式影像演化为不断变化的多元宇宙。",
+    "en": "Parametric geometry becomes an interactive point cloud and evolves through generative moving images into a changing multiverse."
+  },
+  "categories": [
+    "3d",
+    "installation",
+    "video"
+  ],
+  "status": "published",
+  "kind": {
+    "zh": "参数化空间／创意编程／生成影像",
+    "en": "Parametric space / Creative coding / Generative film"
+  },
+  "year": "2025",
+  "cover": "cosmos-cover",
+  "background": "cosmos-cover",
+  "featured": true,
+  "coverAlt": {
+    "zh": "深色宇宙中彩色粒子与生长轨迹围绕概念模型扩散。",
+    "en": "Coloured particles and growing trails spread around a conceptual model in a dark cosmos."
+  },
+  "role": {
+    "zh": "参数化建模、交互编程与生成影像设计",
+    "en": "Parametric modelling, interaction programming, and generative image design"
+  },
+  "stage": {
+    "zh": "概念模型、粒子交互与生成影像",
+    "en": "Conceptual model, particle interaction, and generative film"
+  },
+  "deliverables": {
+    "zh": "参数化分析、Rhino 模型、Processing 粒子交互、ComfyUI 工作流与动态影像",
+    "en": "Parametric studies, Rhino model, Processing particle interaction, ComfyUI workflows, and moving images"
+  },
+  "overview": {
+    "zh": "以多元宇宙与未来世界观为起点，将参数化几何、粒子交互和生成式影像连接为一条连续的创作路径。通过生物形态与机械结构的组合，构建一个由不同时间线相互支撑、不断生长和变化的混合生态空间。",
+    "en": "Beginning with multiverses and future worldviews, this project links parametric geometry, particle interaction, and generative moving images. Organic forms and mechanical structures combine into a hybrid ecology, where possible timelines support one another and continually grow and transform."
+  },
+  "sections": [
+    {
+      "id": "concept",
+      "title": {
+        "zh": "多元宇宙与创作路径",
+        "en": "Multiverse and design process"
+      }
+    },
+    {
+      "id": "parametric",
+      "title": {
+        "zh": "参数化形态生成",
+        "en": "Parametric form generation"
+      }
+    },
+    {
+      "id": "hybrid-space",
+      "title": {
+        "zh": "混合生态空间",
+        "en": "Hybrid ecological space"
+      }
+    },
+    {
+      "id": "particle-interaction",
+      "title": {
+        "zh": "粒子、藤蔓与烟花",
+        "en": "Particles, vines, and bursts"
+      }
+    },
+    {
+      "id": "generative-workflow",
+      "title": {
+        "zh": "生成式影像工作流",
+        "en": "Generative image workflow"
+      }
+    },
+    {
+      "id": "multiverse",
+      "title": {
+        "zh": "未来世界的视觉演化",
+        "en": "Evolving future worlds"
+      }
+    }
+  ]
+}
